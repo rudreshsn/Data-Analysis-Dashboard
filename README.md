@@ -17,3 +17,6 @@ Location Map: Displays geographical distribution of accidents across the United 
 
 ### Filters Available:
 Users can filter by road surface and weather conditions to customize the analysis.
+
+## Dashboard
+<img width="1330" height="743" alt="Road accident analysis image" src="https://github.com/user-attachments/assets/1795f012-10d8-493b-a18a-3b933b82a5bc" />
